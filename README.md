@@ -1,2 +1,0 @@
-# mulikkk
-my first  code
